@@ -5,13 +5,13 @@ This is the frontend for the Slidely Desktop App, created using Visual Basic in 
 ## Screenshots
 
 ### Main Form
-![Main Form](https://github.com/yourusername/Slidely_Desktop_app_frontend/raw/main/screenshots/main_form.png)
+![Main Form](https://github.com/Rohitjangid2704/Slidely_Desktop_app_frontend/blob/main/Main%20Form.png)
 
 ### Create New Submission Form
-![Create New Submission Form](https://github.com/yourusername/Slidely_Desktop_app_frontend/raw/main/screenshots/create_submission_form.png)
+![Create New Submission Form](https://github.com/Rohitjangid2704/Slidely_Desktop_app_frontend/blob/main/Create%20Submission.png)
 
 ### View Submissions Form
-![View Submissions Form](https://github.com/yourusername/Slidely_Desktop_app_frontend/raw/main/screenshots/view_submissions_form.png)
+![View Submissions Form](https://github.com/Rohitjangid2704/Slidely_Desktop_app_frontend/blob/main/View%20Submission.png)
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ This is the frontend for the Slidely Desktop App, created using Visual Basic in 
 
 1. **Clone the repository to your local machine:**
    ```sh
-   git clone https://github.com/yourusername/Slidely_Desktop_app_frontend.git
+   git clone https://github.com/Rohitjangid2704/Slidely_Desktop_app_frontend.git
    ```
 
 2. **Open the project in Visual Studio:**
